@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "choco-mint.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

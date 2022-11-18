@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "american-favourite.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

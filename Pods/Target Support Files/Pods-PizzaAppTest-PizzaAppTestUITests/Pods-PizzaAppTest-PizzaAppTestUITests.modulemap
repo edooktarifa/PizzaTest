@@ -1,0 +1,6 @@
+framework module Pods_PizzaAppTest_PizzaAppTestUITests {
+  umbrella header "Pods-PizzaAppTest-PizzaAppTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
